@@ -1,0 +1,22 @@
+{
+  "name": "websiteoptimizations",
+  "version": "1.0.0",
+  "description": "Playing with website optimizations",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidHoffman80/frontend-nanodegree-mobile-portfolio.git"
+  },
+  "author": "Dave Hoffman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidHoffman80/frontend-nanodegree-mobile-portfolio/issues"
+  },
+  "homepage": "https://DavidHoffman80.github.io/frontend-nanodegree-mobile-portfolio",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
