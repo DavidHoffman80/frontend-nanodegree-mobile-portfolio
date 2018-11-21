@@ -4,6 +4,6 @@ Your challenge, if you wish to accept it (and we sure hope you will), is to opti
 
 ### Lighthouse Tests
 
-###Initial Test
-###Desktop: no throttle
-![alt text](/Website Optimization Screenshot/Test1-Desktop-noThrottle.png "Test 1: Desktop no throttle")
+### Initial Test
+### Desktop: no throttle
+![alt text](/WebsiteOptimizationScreenshot/Test1-Desktop-noThrottle.png "Test 1: Desktop no throttle")
