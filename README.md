@@ -13,7 +13,7 @@ Your challenge, if you wish to accept it (and we sure hope you will), is to opti
 
 ### Final Test
 ### Desktop: no throttle
-![Final Test: Desktop no throttle](https://github.com/DavidHoffman80/frontend-nanodegree-mobile-portfolio/blob/master/WebsiteOptimizationScreenshots/Test5-Desktop-noThrottle.png)
+![Final Test: Desktop no throttle](https://github.com/DavidHoffman80/frontend-nanodegree-mobile-portfolio/blob/master/WebsiteOptimizationScreenshots/Test6-Desktop-noThrottle.png)
 
 ### Mobile: Applied 3G throttle
-![Final Test: Mobile applied 3G throttle](https://github.com/DavidHoffman80/frontend-nanodegree-mobile-portfolio/blob/master/WebsiteOptimizationScreenshots/Test5-Mobile-Applied3GThrottle.png)
+![Final Test: Mobile applied 3G throttle](https://github.com/DavidHoffman80/frontend-nanodegree-mobile-portfolio/blob/master/WebsiteOptimizationScreenshots/Test6-Mobile-Applied3GThrottle.png)
