@@ -6,4 +6,4 @@ Your challenge, if you wish to accept it (and we sure hope you will), is to opti
 
 ### Initial Test
 ### Desktop: no throttle
-![Test 1: Desktop no throttle](/frontend-nanodegree-mobile-portfolio/WebsiteOptimizationScreenshots/Test1-Desktop-noThrottle.png)
+![Test 1: Desktop no throttle](https://github.com/DavidHoffman80/frontend-nanodegree-mobile-portfolio/blob/master/WebsiteOptimizationScreenshots/Test1-Desktop-noThrottle.png)
