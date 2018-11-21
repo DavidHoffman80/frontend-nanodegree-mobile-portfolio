@@ -6,3 +6,7 @@ Your challenge, if you wish to accept it (and we sure hope you will), is to opti
 Test 1
   Desktop (Audits: Performance, Best Practices, Accessability. No throttling)
   Mobile (Audits: Performance, Best Practices, Accessability. Applied fast 3G throttling)
+Test 2
+  Desktop: Accessability is at 100.
+Test 3
+  made all images webp.
