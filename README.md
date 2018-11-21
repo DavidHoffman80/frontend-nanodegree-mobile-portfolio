@@ -17,3 +17,6 @@ Your challenge, if you wish to accept it (and we sure hope you will), is to opti
 
 ### Mobile: Applied 3G throttle
 ![Final Test: Mobile applied 3G throttle](https://github.com/DavidHoffman80/frontend-nanodegree-mobile-portfolio/blob/master/WebsiteOptimizationScreenshots/Test6-Mobile-Applied3GThrottle.png)
+
+### Conclusion
+By doing a little restructuring I was able to acheive a 100 in Google's Lighthouse tests for both desktop and mobile versions. I was able to take an initial desktop test of "Time to Interactive" from 200ms to 110ms, "First Meaningful Paint" from 270ms to 110ms. In the mobile version I was able to take "Time to Interactive" from 2490ms to 2020ms, "First Meaningful Paint" from 2490ms to 1340ms.
